@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Created by Arif Khaishgi
+Created by Arif Khaishagi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
